@@ -2,6 +2,6 @@ function shout(string) {
   return string.toUpperCase()
 }
 
-function logShout(){
-  console.log
+function logShout(string){
+  console.log.toUpperCase()
 }
